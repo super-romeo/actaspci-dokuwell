@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://actaspci.dokufile.com/sitemap.xml
